@@ -11,7 +11,7 @@ Fork the project and run on your device
 
 Ability to fork a project 🙂
 
-## What i will learnt
+## What i learnt
 
 - How to use Flutter themes to create coherent branding. 
 - How to create multi-page apps using Flutter Routes and Navigator.

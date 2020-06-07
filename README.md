@@ -30,13 +30,13 @@ Ability to fork a project 🙂
 
 Home screen
 
-![Home screen](Documentation/Home screen.png)
+![Home screen](Documentation/HomeScreen.png)
 
 
 
 Result screen
 
-![Result screen](Documentation/Result screen.png)
+![Result screen](Documentation/ResultScreen.png)
 
 ## Acknowledgments
 
